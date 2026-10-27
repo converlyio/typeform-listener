@@ -1,0 +1,5 @@
+homepage: "https://converly.io"
+documentation: "https://converly.io/gtm-templates/typeform"
+versions:
+  - sha: ca149451c2a638a88f91abbc8e8b2eb82115124a
+    changeNotes: First release.
